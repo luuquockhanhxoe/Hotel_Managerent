@@ -1,0 +1,7 @@
+Flask
+Flask-RESful
+Flask-SQLAlchemy
+requests
+json
+jwt
+Blueprint
